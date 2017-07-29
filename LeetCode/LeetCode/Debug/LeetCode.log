@@ -1,0 +1,5 @@
+﻿  Combinations.cpp
+c:\users\maohui\documents\visual studio 2015\projects\leetcode\leetcode\combinations.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maohui\documents\visual studio 2015\projects\leetcode\leetcode\combinations.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+  LeetCode.vcxproj -> C:\Users\maohui\documents\visual studio 2015\Projects\LeetCode\Debug\LeetCode.exe
+  LeetCode.vcxproj -> C:\Users\maohui\documents\visual studio 2015\Projects\LeetCode\Debug\LeetCode.pdb (Full PDB)
